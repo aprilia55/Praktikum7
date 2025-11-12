@@ -34,5 +34,5 @@ http://localhost/lab7_php_dasar/tugas.php
 
 **🖥️ Contoh Hasil Form**
 
-![foto]()
+![foto](https://github.com/aprilia55/Praktikum7/blob/e7f91ee494228a6ad2cca8ad0de0705c554d6852/Screenshot%20(343).png)
 
